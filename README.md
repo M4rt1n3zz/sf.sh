@@ -28,9 +28,9 @@ To run the script, use the following commands:
 `<domain>`: The domain name for which you want to fetch information.
 
 `-o` `<output_file>`: Optional. Specify an output file to save the results.\
-`-a`: Optional. Include all available information.\
+`-a`: Optional. Include all available information.
 
 ```
 ./sf.sh example.com -o output.txt -a
 ```
-This command retrieves information about example.com, saves it to output.txt, and includes `www`.
+This command retrieves information about `example.com`, saves it to `output.txt`, and includes `www`.
