@@ -1,0 +1,2 @@
+# sf.sh
+ Subdomain Finder
